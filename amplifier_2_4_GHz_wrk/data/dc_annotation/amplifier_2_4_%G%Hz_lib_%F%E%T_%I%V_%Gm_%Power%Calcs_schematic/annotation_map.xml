@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation_files Simulator="hpeesofsim" Version="1.0" Time="ons. sep. 3 10:50:42 2025">
+ <File name="annotation_1.xml">
+  <Controller name="DC1">
+   <P>VGS: -3.0000000000000000e+00</P>
+   <P>VDS: 2.5000000000000000e+01</P>
+  </Controller>
+ </File>
+</annotation_files>
